@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.16",
-    "name": "roomexfinder.github.io"
+    "name": "foeco"
   },
   "apps": [
     {
@@ -16,7 +16,7 @@
       "mobile": false,
       "styles": [
         "styles.css",
-        "roomex-theme.scss",
+        "foeco-theme.scss",
         "../node_modules/font-awesome/scss/font-awesome.scss"
       ],
       "scripts": [],
